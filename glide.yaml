@@ -1,0 +1,3 @@
+package: github.com/saxsir/chat
+import:
+- package: github.com/gorilla/websocket
